@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
-- GitHub [@your-username](https://github.com/guilhermezerlenga)
-- Twitter [@your-twitter](https://twitter.com/guizerlenga)
+- GitHub [@guilhermezerlenga](https://github.com/guilhermezerlenga)
+- Twitter [@guizerlenga](https://twitter.com/guizerlenga)
